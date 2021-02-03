@@ -5,6 +5,9 @@
       <list>
         <option value="dict.append" />
         <option value="set.sort" />
+        <option value="dacwork.views" />
+        <option value="dacwork.dacwork.views" />
+        <option value="users.views" />
       </list>
     </option>
   </inspection_tool>
