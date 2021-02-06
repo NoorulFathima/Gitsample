@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="sample" type="PLAIN_TEXT" />
       <mapping ext="rtf" type="PLAIN_TEXT" />
+      <mapping ext="sqlite3" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
